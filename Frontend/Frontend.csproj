@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Teqniqly.Hyrule.Frontend</AssemblyName>
+    <RootNamespace>Teqniqly.Hyrule.Frontend</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Intermediate\Intermediate.csproj" />
+  </ItemGroup>
+
+</Project>
